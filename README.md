@@ -1,2 +1,2 @@
 # Hello-World
-First testing for Github
+print("Hello World")
